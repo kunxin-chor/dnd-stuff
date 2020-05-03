@@ -1072,7 +1072,7 @@
 				{
 					"name": "Knockback.",
 					"entries": [
-						"{@atk mw} The target must succeed on a {@dc 15} Strength saving throw. Hit: the target is pushed up to 10 ft away."
+						"The target must succeed on a {@dc 15} Strength saving throw. Hit: the target is pushed up to 10 ft away."
 					]
 				}
 			],
